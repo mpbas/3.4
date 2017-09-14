@@ -5,7 +5,7 @@ import requests
 
 AUTHORIZE_URL = 'https://oauth.vk.com/authorize'
 CLIENT_ID = 6183616
-ACCESS_TOKEN = '0da3da20deb6c1f2bb6877bb36cc51239e240e56720caac24c0ea4879cc89f3b07e0173c2f0ef775ade9c' # enter your token here
+ACCESS_TOKEN = '' # enter your token here
 
 
 def auth():
